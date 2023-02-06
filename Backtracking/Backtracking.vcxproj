@@ -142,15 +142,29 @@
     <ClCompile Include="Backtracking.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="10.h" />
+    <ClInclude Include="11.h" />
+    <ClInclude Include="12.h" />
+    <ClInclude Include="13.h" />
+    <ClInclude Include="14.h" />
     <ClInclude Include="3.h" />
     <ClInclude Include="4.h" />
     <ClInclude Include="1.h" />
     <ClInclude Include="2.h" />
     <ClInclude Include="5.h" />
     <ClInclude Include="6.h" />
+    <ClInclude Include="7.h" />
+    <ClInclude Include="8.h" />
+    <ClInclude Include="9.h" />
+    <ClInclude Include="backtracking-in-plan-8-directii.h" />
     <ClInclude Include="aranjamente.h" />
+    <ClInclude Include="backtracking-in-plan-4-directii.h" />
+    <ClInclude Include="ProdusCartezian.h" />
     <ClInclude Include="combinari.h" />
     <ClInclude Include="permutari.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="in.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
