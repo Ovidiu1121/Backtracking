@@ -1,10 +1,9 @@
-
-#include "combinari.h"
+#include "25.h"
 
 int main()
 {
 
-	back(0);
-	
+	functie();
+
 
 }

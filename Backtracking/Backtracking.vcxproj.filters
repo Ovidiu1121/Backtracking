@@ -47,5 +47,74 @@
     <ClInclude Include="combinari.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="ProdusCartezian.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="backtracking-in-plan-4-directii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="backtracking-in-plan-8-directii.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="7.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="8.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="9.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="10.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="11.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="12.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="13.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="14.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="15.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="16.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="17.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="18.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="19.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="20.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="21.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="22.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="23.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="24.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="in.txt" />
   </ItemGroup>
 </Project>
