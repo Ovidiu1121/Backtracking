@@ -80,6 +80,39 @@
     <ClInclude Include="14.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="15.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="16.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="17.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="18.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="19.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="20.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="21.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="22.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="23.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="24.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="25.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="in.txt" />

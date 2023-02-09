@@ -147,6 +147,17 @@
     <ClInclude Include="12.h" />
     <ClInclude Include="13.h" />
     <ClInclude Include="14.h" />
+    <ClInclude Include="15.h" />
+    <ClInclude Include="16.h" />
+    <ClInclude Include="17.h" />
+    <ClInclude Include="18.h" />
+    <ClInclude Include="19.h" />
+    <ClInclude Include="20.h" />
+    <ClInclude Include="21.h" />
+    <ClInclude Include="22.h" />
+    <ClInclude Include="23.h" />
+    <ClInclude Include="24.h" />
+    <ClInclude Include="25.h" />
     <ClInclude Include="3.h" />
     <ClInclude Include="4.h" />
     <ClInclude Include="1.h" />
